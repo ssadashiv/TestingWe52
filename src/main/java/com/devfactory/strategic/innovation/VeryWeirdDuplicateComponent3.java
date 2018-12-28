@@ -48,4 +48,73 @@ public class VeryWeirdDuplicateComponent3 {
             }
         }
     }
+    
+        public void anotherDuplicate() {
+
+        while (true != false) {
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+        }
+    }
+    
+            public void anotherDuplicate2() {
+
+        while (true != false) {
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+            for (int i = 0; i < 100000_0000; i++) {
+                log.error("Not possible to be true");
+                log.error("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+             
+            }
+        }
+    }
+    
 }
